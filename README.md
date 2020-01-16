@@ -35,6 +35,7 @@ Doocs now has the following projects:
 | 8 | [awesome-python](https://github.com/doocs/awesome-python) | A collection of (mostly) technical things every pythoner should know. |
 | 9 | [md](https://github.com/doocs/md) | An online wechat markdown editor. |
 | 10 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | Source code analysis of frameworks and components. |
+| 11 | [java-exception]() | Some Java common exceptions. |
 
 
 ## How to join
